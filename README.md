@@ -20,9 +20,9 @@ A função `ft_printf` suporta as seguintes conversões de formato:
    git clone https://github.com/pnovato/ft_printf.git
    cd ft_printf
 2.**Compila a biblioteca:**
-  ```bash
-  make
- ```
+   ```bash
+   make
+   ```
 
 ## 🛠️ Comandos do Makefile
 
