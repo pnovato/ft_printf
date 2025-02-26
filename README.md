@@ -2,7 +2,7 @@
 
 O projeto **ft_printf** faz parte do currículo da 42 School e tem como objetivo recriar a função padrão `printf` da biblioteca **`<stdio.h>`** em C. Esta implementação personalizada replica o comportamento de `printf`, suportando várias especificações de formato e tipos de dados, tudo isso sem utilizar as funções já existentes na biblioteca padrão.
 
-## 🛠️ Funcionalidades
+## Funcionalidades
 
 A função `ft_printf` suporta as seguintes conversões de formato:
 
@@ -14,7 +14,7 @@ A função `ft_printf` suporta as seguintes conversões de formato:
 - **`%x` / `%X`**: Números hexadecimais (minúsculo/maiúsculo)
 - **`%%`**: Porcentagem literal
 
-## 🚀 Como Usar
+## Como Usar
 1. **Clona o repositório:**
    ```bash
    git clone https://github.com/pnovato/ft_printf.git
@@ -24,7 +24,7 @@ A função `ft_printf` suporta as seguintes conversões de formato:
    make
    ```
 
-## 🛠️ Comandos do Makefile
+## Comandos do Makefile
 
   - make: Compila a biblioteca e gera o ficheiro libftprintf.a.
   - make clean: Remove os ficheiros objeto gerados durante a compilação.
